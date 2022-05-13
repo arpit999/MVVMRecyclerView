@@ -1,5 +1,5 @@
 # MVVMRecyclerView
-MVVM + RecyclerView + ViewBinding (Adapter) + Retrofit + LiveData
+MVVM + RecyclerView + ViewBinding (Adapter) + Retrofit + LiveData + Error Handling with Generic
 
 
 <br  />
